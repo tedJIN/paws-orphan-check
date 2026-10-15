@@ -32,7 +32,6 @@ are an upper bound.
 
 ## Install
 
-<!-- TODO: repository name assumed; update once the repo is public. -->
 ```
 /plugin marketplace add tedJIN/paws-orphan-check
 /plugin install orphan-check@paws-tools
