@@ -1,0 +1,11 @@
+{
+  "name": "orphan-check",
+  "displayName": "Orphan Check",
+  "version": "0.1.0",
+  "description": "Read-only report of MCP servers, node/uv workers and browser-automation helpers that AI coding sessions left running after they ended. Never kills anything.",
+  "author": { "name": "Teddy (Paws)", "url": "https://tedjin.github.io/paws/en/" },
+  "homepage": "https://tedjin.github.io/paws/en/?utm_source=cc-plugin",
+  "repository": "https://github.com/tedJIN/paws-orphan-check",
+  "license": "MIT",
+  "keywords": ["mcp", "processes", "memory", "macos", "orphan", "cleanup", "diagnostics"]
+}

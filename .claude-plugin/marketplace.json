@@ -1,0 +1,8 @@
+{
+  "name": "paws-tools",
+  "description": "Small tools from the maker of Paws",
+  "owner": { "name": "Teddy (Paws)" },
+  "plugins": [
+    { "name": "orphan-check", "source": "./", "description": "Find processes AI coding sessions left behind (read-only)" }
+  ]
+}
